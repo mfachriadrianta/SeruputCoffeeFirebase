@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Seruput</string>
+    <string name="slogan">Home is where the coffe</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="label_continue">CONTINUE</string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="view">VIEW COFFEE</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="buy_coffee">BUY COFFEE</string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="refund_now">REFUND NOW</string>
+    <string name="save_profile">SAVE PROFILE</string>
+    <string name="view_dev">VIEW DEVLOPMENT</string>
+</resources>

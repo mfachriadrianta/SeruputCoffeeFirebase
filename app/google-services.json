@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955717030100",
+    "firebase_url": "https://seruputcoffee-529f3.firebaseio.com",
+    "project_id": "seruputcoffee-529f3",
+    "storage_bucket": "seruputcoffee-529f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955717030100:android:7f358353811e9d6d00eb41",
+        "android_client_info": {
+          "package_name": "com.mfachriadrianta.seruputcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955717030100-r3pcfr1098jvmqilp54q0gpo037ah5f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-IFdQ0kip7J7Lw5uYZlPFpgasiCY87p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955717030100-r3pcfr1098jvmqilp54q0gpo037ah5f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
